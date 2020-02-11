@@ -94,7 +94,7 @@ v2 = c(15,25,35,40,15,25,10)
 # Plot types -> l, p, b, o, s, h
 plot(v1, type = "o", col = rainbow(length(v1)), xlab = "Index", ylab = "Frequency", 
          main = "Line Plot")
-# To plot another line is same graph
+# To plot another line in same graph
 lines(v2, type = "o", col = rainbow(length(v2)))
 
 ##############################################################################################
