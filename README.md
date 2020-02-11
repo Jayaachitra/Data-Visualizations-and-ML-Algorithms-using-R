@@ -1,2 +1,10 @@
-# Data-Visualizations-and-ML-Algorithms-using-R
-Basic data visualizations and Machine Learning algorithms are implemented using R Language
+# GRAPHS
+-2D and 3D Pie charts<br>
+-BarPlot <br>
+-Stack Barplot <br>
+-Boxplot <br>
+-Histogram <br>
+-Scatterplot <br>
+-Line Charts <br>
+
+
