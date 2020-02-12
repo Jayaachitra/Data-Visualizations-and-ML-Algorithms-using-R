@@ -25,3 +25,5 @@ Following Graphs are explained with small use cases<br>
 Commonly used plots in <b>ggplot2 library</b> are explained<br><br>
 <b>map_data</b> for basic map functions<br><br>
 <b>Leaflet library</b> for advanced interactive map functions<br><br>
+Performing data visualization on <b>Excel Data</b> using <b>readxl library</b><br>
+&nbsp;&nbsp;&nbsp;-Use <b>"Train.xlsx"</b> as sample Excel file
