@@ -1,6 +1,6 @@
 
 # ILLUSTRATED CONCEPTS
-Following Graphs are explained with small use cases<br>
+* Following Graphs are explained with small use cases<br>
 <table border="0">
   <tr>
     <td> 2D Pie Charts </td>
@@ -22,16 +22,16 @@ Following Graphs are explained with small use cases<br>
   </tr>
 </table>
   
-Commonly used plots in <b>ggplot2 library</b> are explained<br>
+* Commonly used plots in <b>ggplot2 library</b> are explained<br>
 
-<b>map_data</b> for basic map functions<br>
+* <b>map_data</b> for basic map functions<br>
 
-<b>Leaflet library</b> for advanced interactive map functions<br>
+* <b>Leaflet library</b> for advanced interactive map functions<br>
 
-Performing data visualization on <b>Excel Data</b> using <b>readxl library</b><br>
+* Performing data visualization on <b>Excel Data</b> using <b>readxl library</b><br>
 &nbsp;&nbsp;&nbsp;-Use <b>"Train.xlsx"</b> as sample Excel file<br>
 
-Following <b>Statistical operations</b> have been performed<br>
+* Following <b>Statistical operations</b> have been performed<br>
 <table border="0">
   <tr>
     <td> Mean </td>
@@ -52,7 +52,7 @@ Following <b>Statistical operations</b> have been performed<br>
   </tr>
 </table>
 
-Following <b>Machine Learning Algorithms</b> have been explained<br>
+* Following <b>Machine Learning Algorithms</b> have been explained<br>
 <table border="0">
   <tr>
     <td> Linear Regression </td>
